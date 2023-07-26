@@ -4,17 +4,19 @@
     "url": "https://api.junkunren.com/portal",
     "icon": "https://icons.duckduckgo.com/ip3/api.junkunren.com.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 592,
+    "timeDay": 612,
     "timeWeek": 634,
     "timeMonth": 631,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
