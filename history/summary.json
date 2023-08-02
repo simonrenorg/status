@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.junkunren.com.ico",
     "slug": "portal-be",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "98.25%",
-    "time": 632,
-    "timeDay": 663,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
+    "time": 631,
+    "timeDay": 627,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2023-07-30": 39
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 661,
-    "timeWeek": 622,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 611,
+    "timeDay": 557,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   }
 ]
