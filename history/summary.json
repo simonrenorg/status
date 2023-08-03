@@ -4,18 +4,19 @@
     "url": "https://api.junkunren.com/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/api.junkunren.com.ico",
     "slug": "portal-be",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 633,
-    "timeDay": 649,
+    "timeDay": 640,
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2023-08-03": 0,
       "2023-07-30": 39
     }
   },
@@ -24,17 +25,19 @@
     "url": "https://portal.junkunren.com",
     "icon": "https://icons.duckduckgo.com/ip3/portal.junkunren.com.ico",
     "slug": "portal-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 620,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
-    "dailyMinutesDown": {}
+    "time": 615,
+    "timeDay": 627,
+    "timeWeek": 615,
+    "timeMonth": 615,
+    "timeYear": 615,
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   }
 ]
