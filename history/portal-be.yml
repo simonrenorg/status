@@ -1,7 +1,7 @@
 url: https://api.junkunren.com/portal/
-status: down
-code: 503
-responseTime: 630
-lastUpdated: 2023-08-03T10:08:11.761Z
+status: up
+code: 200
+responseTime: 644
+lastUpdated: 2023-08-03T10:25:51.579Z
 startTime: Sun Jul 30 2023 12:20:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
