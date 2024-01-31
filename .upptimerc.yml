@@ -7,6 +7,8 @@ sites:
     url: https://api.junkunren.com/portal/
   - name: Portal-FE
     url: https://portal.junkunren.com
+  - name: Record-Manager-BE
+    url: https://api.173389.xyz/record-manager/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
