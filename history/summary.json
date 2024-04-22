@@ -75,17 +75,19 @@
     "url": "https://api.173389.xyz/record-manager/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.173389.xyz.ico",
     "slug": "record-manager-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 601,
-    "timeWeek": 629,
-    "timeMonth": 647,
-    "timeYear": 654,
-    "dailyMinutesDown": {}
+    "time": 651,
+    "timeDay": 490,
+    "timeWeek": 597,
+    "timeMonth": 639,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2024-04-22": 0
+    }
   }
 ]
